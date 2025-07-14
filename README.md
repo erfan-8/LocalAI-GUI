@@ -40,5 +40,5 @@ This app lets you interact with local LLMs in real-time with chat history, markd
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/LocalAI-GUI.git
+git clone https://github.com/erfan-8/LocalAI-GUI.git
 cd LocalAI-GUI
