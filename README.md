@@ -42,3 +42,6 @@ This app lets you interact with local LLMs in real-time with chat history, markd
 ```bash
 git clone https://github.com/erfan-8/LocalAI-GUI.git
 cd LocalAI-GUI
+
+
+# 2. Create and Activate a Virtual Environment
